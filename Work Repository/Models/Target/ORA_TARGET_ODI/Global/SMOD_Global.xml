@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SunopsisExport>
 <Admin RepositoryVersion="05.02.02.05" IsLegacyIdCompatible="false" />
-<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="VoQ8yQguoes37JKpSO76kw==" exportKeySalt="deb96c9f-e725-4fd6-b0b6-00b90f722a78" containsCipherText="false"/>
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="2hhHWnpB2JdMxaxMVogpUg==" exportKeySalt="cd17b70a-3b0d-4de2-9516-49a8bd8e4a06" containsCipherText="false"/>
 <Object class="com.sunopsis.dwg.dbobj.SnpSubModel">
 		<Field name="CodSmod" type="java.lang.String"><![CDATA[DEFAULT]]></Field>
 	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2017-03-09 17:08:38.0]]></Field>
 	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[319d2d1e-3904-3d74-8b5b-a0d5c14e03be]]></Field>
-	<Field name="IndChange" type="java.lang.String"><![CDATA[I]]></Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[7]]></Field>
 	<Field name="IMod" type="com.sunopsis.sql.DbInt"><![CDATA[12]]></Field>
 	<Field name="ISmod" type="com.sunopsis.sql.DbInt"><![CDATA[12]]></Field>
 	<Field name="ISmodParent" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2017-03-24 17:06:03.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2017-04-03 12:56:12.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="RevApplyPattern" type="java.lang.String">null</Field>
 	<Field name="RevPatternOrder" type="java.lang.String">null</Field>
@@ -57,7 +57,7 @@
 	<Field name="SubType" type="java.lang.String">null</Field>
 	<Field name="Name" type="java.lang.String"><![CDATA[SALES_BY_QTR]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[8599ae96-3680-342c-86f9-b4940313c762]]></Field>
-	<Field name="Version" type="java.lang.String"><![CDATA[1b6eb3281c785817a328f036ea8ff758b0218154]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[3a4cc9722c6244d21c68eb6730b5944ba68ced9c]]></Field>
 	<Field name="Path" type="java.lang.String"><![CDATA[TAB_SALES_BY_QTR.xml]]></Field>
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
