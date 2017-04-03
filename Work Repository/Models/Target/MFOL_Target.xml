@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SunopsisExport>
 <Admin RepositoryVersion="05.02.02.05" IsLegacyIdCompatible="false" />
-<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="sVeK8Wojb2FeWIvHSZEk0g==" exportKeySalt="3a97b5d8-5220-49b7-981c-f87d2d3e64ed" containsCipherText="false"/>
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="um4eLVdK5Ul3+j4JNML0rw==" exportKeySalt="357ce6dc-f862-4e9b-9ffc-6f1858bbec3b" containsCipherText="false"/>
 <Object class="com.sunopsis.dwg.dbobj.SnpModFolder">
 		<Field name="ExtVersion" type="java.lang.String">null</Field>
 	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2017-03-09 17:08:37.0]]></Field>
 	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[860456b1-06d3-3cc3-bbd2-6a2402cef856]]></Field>
-	<Field name="IndChange" type="java.lang.String"><![CDATA[I]]></Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[7]]></Field>
 	<Field name="IModFolder" type="com.sunopsis.sql.DbInt"><![CDATA[12]]></Field>
 	<Field name="ITxtDescription" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2017-03-24 17:05:59.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2017-04-03 12:56:12.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="ModFolderName" type="java.lang.String"><![CDATA[Target]]></Field>
 	<Field name="ParIModFolder" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
@@ -22,7 +22,7 @@
 	<Field name="SubType" type="java.lang.String">null</Field>
 	<Field name="Name" type="java.lang.String"><![CDATA[ORA_TARGET_ODI]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[102ca51f-7d23-3b67-9d64-0222df0e6818]]></Field>
-	<Field name="Version" type="java.lang.String"><![CDATA[7156dbec986639f38a76664d4b2babec88cba240]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[27d96979a6c323aae52895bb84b2b88823aa1a8b]]></Field>
 	<Field name="Path" type="java.lang.String"><![CDATA[ORA_TARGET_ODI/MOD_ORA_TARGET_ODI.xml]]></Field>
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
